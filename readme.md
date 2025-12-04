@@ -1,15 +1,19 @@
-# effect
+# Effect
 
-To install dependencies:
+## Setup
 
-```bash
-bun install
-```
+Using [flow](https://github.com/nikivdev/flow), run `f setup`.
 
-To run:
+## Run
 
-```bash
-bun run index.ts
-```
+Run `f dev`.
 
-This project was created using `bun init` in bun v1.3.4. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+## Contributing
+
+Any PR to improve is welcome (ideally with **working** & **useful** patches but non finished ideas are also welcome). All issues to share bugs/features are welcome too.
+
+[This](https://nikiv.dev/how-i-code) is nice overview of a coding workflow that works that you can adapt.
+
+### 🖤
+
+[![Discord](https://go.nikiv.dev/badge-discord)](https://go.nikiv.dev/discord) [![X](https://go.nikiv.dev/badge-x)](https://x.com/nikivdev) [![nikiv.dev](https://go.nikiv.dev/badge-nikiv)](https://nikiv.dev)
