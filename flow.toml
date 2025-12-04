@@ -1,0 +1,11 @@
+[[tasks]]
+name = "setup"
+command = "bun i"
+
+[[tasks]]
+name = "dev"
+command = "bun --watch run.ts"
+
+[[tasks]]
+name = "leetcode"
+command = "bun --watch leetcode/$1-*.ts"
