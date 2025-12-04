@@ -8,6 +8,10 @@ Using [flow](https://github.com/nikivdev/flow), run `f setup`.
 
 Run `f dev`.
 
+## Tasks
+
+Search through all available tasks by running `f`.
+
 ## Contributing
 
 Share issues with bugs/features. Any PR to improve project is welcome. Ideally with **working** & **useful** patches but non finished ideas are great too. If idea/feature is sound, it will be merged eventually.
