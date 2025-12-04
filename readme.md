@@ -10,7 +10,7 @@ Run `f dev`.
 
 ## Contributing
 
-Any PR to improve is welcome (ideally with **working** & **useful** patches but non finished ideas are also welcome). All issues to share bugs/features are welcome too.
+Share issues with bugs/features. Any PR to improve project is welcome. Ideally with **working** & **useful** patches but non finished ideas are great too. If idea/feature is sound, it will be merged eventually.
 
 [This](https://nikiv.dev/how-i-code) is nice overview of a coding workflow that works that you can adapt.
 
